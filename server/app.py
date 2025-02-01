@@ -40,8 +40,6 @@ def math(num1, operation, num2):
     return 'Operation not recognized. Please use one of the following: + - * div %'
         
 
-pass
-
 
 if __name__ == '__main__':
     app.run(port=5555, debug=True)
